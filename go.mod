@@ -1,6 +1,6 @@
 module gcp-rm-p-billing-acc
 
-go 1.18
+go 1.23.0
 
 require google.golang.org/api v0.84.0
 
@@ -12,7 +12,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.4.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d // indirect
-	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	golang.org/x/text v0.3.8 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
