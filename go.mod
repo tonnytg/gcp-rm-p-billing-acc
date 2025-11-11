@@ -1,6 +1,6 @@
 module gcp-rm-p-billing-acc
 
-go 1.18
+go 1.23.0
 
 require google.golang.org/api v0.84.0
 
